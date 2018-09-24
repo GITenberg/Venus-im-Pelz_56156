@@ -1,0 +1,25 @@
+_repo: Venus-im-Pelz_56156
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Buchholz, Fritz
+    gutenberg_agent_id: '48699'
+    url: http://www.gutenberg.org/2009/agents/48699
+creator:
+  author:
+    agent_name: Sacher-Masoch, Leopold von
+    gutenberg_agent_id: '48698'
+    url: http://www.gutenberg.org/2009/agents/48698
+description: ''
+gutenberg_issued: '2017-12-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56156'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Venus im Pelz
+url: http://www.gutenberg.org/ebooks/56156
